@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Behaviours\LightBehaviour.cs">
+    <Files>
+      <File FileName="Assets\Editor\Generator\MapGenerator.cs" Line="22" Column="21" />
+      <File FileName="Assets\Scripts\Behaviours\Character.cs" Line="66" Column="17" />
+      <File FileName="Assets\Scripts\Classes\Machines\MDMachine.cs" Line="11" Column="16" />
+      <File FileName="Assets\Scripts\Classes\Datas\Delegates.cs" Line="8" Column="31" />
+      <File FileName="Assets\Scripts\Classes\Machines\MotionMachine.cs" Line="29" Column="5" />
+      <File FileName="Assets\Scripts\Classes\Machines\AnimMachine.cs" Line="30" Column="112" />
+      <File FileName="Assets\Scripts\Classes\Datas\SpritesData.cs" Line="8" Column="9" />
+      <File FileName="Assets\Scripts\Classes\Datas\InputData.cs" Line="10" Column="4" />
+      <File FileName="Assets\Scripts\Behaviours\Background.cs" Line="7" Column="41" />
+      <File FileName="Assets\Scripts\Behaviours\CameraMotor.cs" Line="18" Column="147" />
+      <File FileName="Assets\Scripts\Behaviours\LightBehaviour.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
